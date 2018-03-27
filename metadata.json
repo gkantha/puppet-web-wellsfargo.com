@@ -1,0 +1,18 @@
+{
+  "name": "gangadher-web",
+  "version": "0.1.0",
+  "author": "Gangadher Reddy K <gangadher.reddy@gmail.com>",
+  "summary": "this is my first test module during abridge training",
+  "license": "Apache-2.0",
+  "source": "https://github.com/gkantha/puppet-web-wellsfargo.com",
+  "project_page": "https://github.com/gkantha/puppet-web-wellsfargo.com",
+  "issues_url": "https://github.com/gkantha/puppet-web-wellsfargo.com/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
